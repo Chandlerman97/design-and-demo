@@ -10,6 +10,11 @@ body {
 	margin: 0 auto;}
   h1 {
      font-size: 400%;}
+img.center {
+	display: block;
+	margin: 0px auto;
+	width: 250px;
+	height: 250px;}
 #content {
 	overflow: auto;}
 #nav, #feature, #footer {
