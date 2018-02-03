@@ -24,7 +24,7 @@ img.center {
 	border: solid black;
 	background-image: url("images/Migraine.jpg");
  	background-size:contain;
- 	background-position: center top;
+ 	background-position: left top;
 	background-repeat:no-repeat;}
 .column1, .column2, .column3 {
     border: solid black;
