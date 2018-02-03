@@ -22,14 +22,10 @@ img.center {
 		margin: 1%;}
 #feature {
 	border: solid black;
-	height: 202px;
-	margin: 1%;
-#feature {
-	border: solid black;
 	background-image: url("images/Migraine.jpg");
  	background-size:contain;
  	background-position: center;
-	background-repeat:no-repeat;}}
+	background-repeat:no-repeat;}
 .column1, .column2, .column3 {
     border: solid black;
 	width: 31%;
