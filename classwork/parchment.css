@@ -5,7 +5,7 @@
 	color: #665544;
 	text-align: center;}
 body {
-  background-image: url("");
+  background-image: url("images/vintage-concrete.png");
 	width: 90%;
 	margin: 0 auto;}
   h1 {
@@ -13,8 +13,8 @@ body {
 img.center {
 	display: block;
 	margin: 0px auto;
-	width: 250px;
-	height: 250px;}
+	width: 620px;
+	height: 400px;}
 #content {
 	overflow: auto;}
 #nav, #feature, #footer {
