@@ -13,8 +13,8 @@ body {
 img.center {
 	display: block;
 	margin: 0px auto;
-	width: 620px;
-	height: 400px;}
+	width: 90%;
+	height: 90%;}
 #content {
 	overflow: auto;}
 #nav, #feature, #footer {
