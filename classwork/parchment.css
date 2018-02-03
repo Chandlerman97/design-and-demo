@@ -3,9 +3,9 @@
       font-weight: normal; 
       font-style: normal;
 	color: #665544;
-	text-align: center;}
+	text-align: center;
+	background-image: url("images/vintage-concrete.png");}
 body {
-  background-image: url("images/vintage-concrete.png");
 	width: 90%;
 	margin: 0 auto;}
   h1 {
