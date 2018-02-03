@@ -17,9 +17,13 @@ img.center {
 	height: 200px;}
 #content {
 	overflow: auto;}
-#nav, #feature, #footer {
+#nav, #footer {
     border: solid black;
 		margin: 1%;}
+#feature {
+	border: solid black;
+	height: 202px;
+	margin: 1%;}
 .column1, .column2, .column3 {
     border: solid black;
 	width: 31%;
