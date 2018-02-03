@@ -3,11 +3,11 @@
       font-weight: normal; 
       font-style: normal;
 	color: #665544;
-	text-align: center;
-	background-image: url("images/vintage-concrete.png");}
+	text-align: center}
 body {
 	width: 90%;
-	margin: 0 auto;}
+	margin: 0 auto;
+	background-image: url("images/vintage-concrete.png");}
   h1 {
      font-size: 400%;}
 img.center {
