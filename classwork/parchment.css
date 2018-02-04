@@ -25,21 +25,30 @@ img.center {
 	background-image: url("images/Migraine.jpg");
  	background-size:contain;
  	background-position: left top;
-	background-repeat:no-repeat;}
+	background-repeat:no-repeat;
+	background-color: #670101;}
 .column1, .column2, .column3 {
     border: solid black;
 	width: 31%;
 	float: left;
 	margin: 1%;}
 .column3 {
-	margin-right: 0%;}
+	margin-right: 0%;
+	background-color: #acf6f8;}
+.column2 {
+	background-color: #ffb6b9;}
+.column1 {
+	background-color: #99ff99;}
+	
 li {
 	display: inline;
 	padding: 0.5em;}
 #nav, #footer {
-	background-color: #ffBf00;
 	padding: 0.5em 0;}
 #feature, .article {
 	height: 10em;
-	margin-bottom: 1em;
+	margin-bottom: 1em;}
+#nav {
 	background-color: #ffBf00;}
+#footer {
+	background-color: #d0aaf3;
