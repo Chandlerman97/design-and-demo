@@ -2,7 +2,7 @@
 
 If you have come to this page unfortunatley you are not quite there yet. The real site is just one more step beyond this at the [Home](https://chandlerman97.github.io/design-and-demo/Home.html) page. 
 
-The page that you are currently on is Github's ReadMe page that I am quasi forced to have for using there service.
+The page that you are currently on is Github's ReadMe page that I am quasi forced to have for using their service.
 
 ### Markdown
 
