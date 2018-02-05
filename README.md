@@ -1,37 +1,45 @@
-## Welcome to Design and Demo
-
-If you have come to this page unfortunatley you are not quite there yet. The real site is just one more step beyond this at the [Home](https://chandlerman97.github.io/design-and-demo/Home.html) page. 
-
-The page that you are currently on is Github's ReadMe page that I am quasi forced to have for using their service.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Chandlerman97/design-and-demo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Web Home page</title>
+		<link rel="stylesheet" type="text/css" href="dandd.css">
+        <link rel="stylesheet" media="screen" href="https://fontlibrary.org/face/avara" type="text/css"/>
+	</head>
+	<body>
+		<div id="header">
+			<h1>Logos</h1>
+			<div id="nav">
+				<ul>
+					<li><a href="">Home</a></li>
+					<li><a href="">Coursework</a></li>
+                    			<li><a href="">Artifacts</a></li>
+                  			<li><a href="">Module Assignments</a></li>
+                  			<li><a href="">Gallery</a></li>
+					<li><a href="">About</a></li>
+					<li><a href="">Contact Me</a></li>
+				</ul>
+			</div>
+		</div>
+		<div id="content">
+			<div id="Welcome">
+				<h2>Welcome</h2>
+                <p>Thank you for your time today I had a blast talking about
+                  what this website could be about!</p>
+              
+			</div>
+			<div class="article column1">
+				<p>Column One</p>
+			</div>
+			<div class="article column2">
+				<p>Column Two</p>
+			</div>
+			<div class="article column3">
+				<p>Column Three</p>
+			</div>
+		</div>
+		<div id="footer">
+			<p>Created in 2018</p>
+          <p>property of Chandler Gerdes</p>
+		</div>
+	</body>
+</html>
