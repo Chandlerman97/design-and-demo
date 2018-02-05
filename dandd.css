@@ -2,35 +2,31 @@
 	font-family: 'AvaraBold',"Times New Roman", serif; 
       font-weight: normal; 
       font-style: normal;
-	color: #665544;
+	color: black;
 	text-align: center}
 body {
 	width: 90%;
 	margin: 0 auto;
 	background-image: url("");}
   h1 {
-     font-size: 400%;}
+     font-size: 300%;}
 #content {
 	overflow: auto;}
 #nav, #footer {
     border: solid black;
-		margin: 1%;}
+	margin: 1%;
+    background-color: #927a61; ;}
 #Welcome {
 	border: solid black;
-	
-	background-color: ;}
+	background-color: #927a61;}
 .column1, .column2, .column3 {
     border: solid black;
 	width: 31%;
 	float: left;
-	margin: 1%;}
+	margin: 1%;
+    background-color: #927a61;}
 .column3 {
-	margin-right: 0%;
-	background-color: ;}
-.column2 {
-	background-color: ;}
-.column1 {
-	background-color: ;}
+	margin-right: 0%;}
 li {
 	display: inline;
 	padding: 0.5em;}
@@ -39,7 +35,3 @@ li {
 #feature, .article {
 	height: 10em;
 	margin-bottom: 1em;}
-#nav {
-	background-color: ;}
-#footer {
-    background-color: ;}
