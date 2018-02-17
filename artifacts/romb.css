@@ -1,0 +1,12 @@
+#top {
+
+float: left;
+}
+
+#bottom {
+
+float: left;
+}
+.clear {
+clear: both;
+}
