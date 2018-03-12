@@ -4,7 +4,7 @@ var myImages =["design-and-demo/artifacts/slides/WP_20140717_21_12_58_Pro.jpg",
                "design-and-demo/artifacts/slides/WP_20140507_18_14_09_Pro20140507185635.jpg",
                "design-and-demo/artifacts/slides/WP_20140507_18_15_45_Pro20140507185603.jpg"];
 
-var captionImages =["Sunset","What We Want","Pride","Our City","Living Green"];
+var captionImages =["Sunset Downtown","What We Want","Pride","Our City","Living Green"];
 
  var index=0; 
 
