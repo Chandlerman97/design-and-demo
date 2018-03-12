@@ -1,8 +1,8 @@
-var myImages =["slides/WP_20140717_21_12_58_Pro.jpg", 
-               "slides/WP_20140812_13_30_26_Pro.jpg",
-               "slides/IMG_3634[835] (2).jpg",
-               "slides/WP_20140507_18_14_09_Pro20140507185635.jpg",
-               "slides/WP_20140507_18_15_45_Pro20140507185603.jpg"];
+var myImages =["https://chandlerman97.github.io/design-and-demo/artifacts/slides/WP_20140717_21_12_58_Pro.jpg", 
+               "https://chandlerman97.github.io/design-and-demo/artifacts/slides/WP_20140812_13_30_26_Pro.jpg",
+               "https://chandlerman97.github.io/design-and-demo/artifacts/slides/IMG_3634[835]%20(2).jpg",
+               "https://chandlerman97.github.io/design-and-demo/artifacts/slides/WP_20140507_18_14_09_Pro20140507185635.jpg",
+               "https://chandlerman97.github.io/design-and-demo/artifacts/slides/WP_20140507_18_15_45_Pro20140507185603.jpg"];
 
 var captionImages =["Sunset Downtown","What We Want","Pride","Our City","Living Green"];
 
