@@ -7,11 +7,13 @@
 body {
 	width: 90%;
 	margin: 0 auto;
-	background-image: url("classwork/images/vintage-concrete.png");
-    text-align: center;}
+	background-image: url("https://chandlerman97.github.io/design-and-demo/classwork/images/vintage-concrete.png");
+    text-align: center
+  }
 
 img {
   width: 300px;
   height: 300px;
   display: block;
-	margin: 0px auto;}
+	margin: 0px auto;
+}
