@@ -22,18 +22,19 @@
 		<div id="content">
 			<div id="Welcome">
 				<h2>Contact Me</h2>
-              			<form action="https://chandlerman97.github.io/design-and-demo/thankyou.html" method="get"name="myContact">
+				<div id="errorMessages"></div>
+              			<form action="https://chandlerman97.github.io/design-and-demo/thankyou.html" method="get"name="myContact" onsubmit="return ValidateForm();">
 					<p>
-						<label for="Your Name">Your Name:<br />
-						<input type="text" name="name" /></label><br /></p>
+						<label for="Your Name">Your Name:<br /></label>
+						<input type="text" id="name"/><br /></p>
 					<p>
-						<label for="Subject">Subject:<br />
-						<input type="text" name="subject" /></label><br /></p>
+						<label for="Your Email">Your Email:<br /></label>
+						<input type="text" id="email"/><br /></p>
 					<p>
 						<label for="Message">Message:</label><br />
-						<textarea rows="4" cols="40" id="comments"></textarea><br /></p>
+						<textarea rows="4" cols="40" id="message"></textarea><br /></p>
 					<p>
-						<input type="submit" value="Submit" />
+						<input id="submit" type="submit" value="Submit" />
 					</p>
 				</form>
 			</div>
@@ -52,5 +53,6 @@
 	var d = new Date();
 	document.getElementById("time").innerHTML = d.toString();
 	</script>
+	<script src=conme.js></srcipt> 
   </body>
 </html>
